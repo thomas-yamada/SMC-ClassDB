@@ -1,0 +1,3 @@
+class time data https://smccis.smc.edu/smcweb/f?p=373:1:::::: or https://smccis.smc.edu/isisdoc/web_cat_sched_20260.html (year and semester index 0-3)
+si sessions https://www.smc.edu/student-support/academic-support/supplemental-instruction/schedule.php
+appointment data (need API)
